@@ -1,1 +1,1 @@
-team project readme
+team project README
